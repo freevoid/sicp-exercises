@@ -1,0 +1,14 @@
+h1. General
+
+This is tended to be a private collection of solved exercises from great CS book,
+
+*Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman*.
+
+There are "fulltext":http://mitpress.mit.edu/sicp/full-text/book/book.html available on web.
+
+h1. License
+
+I don't care if someone want to pick something from here, so meet the MIT License. (See LICENSE file).
+
+(c) 2010, Zakharov Nikolay.
+
